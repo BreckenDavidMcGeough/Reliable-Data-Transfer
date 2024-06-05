@@ -4,6 +4,10 @@
 
 This project involves the implementation of three reliable data transport protocols within a given simulator: Alternating-Bit Protocol (ABT), Go-Back-N (GBN), and Selective-Repeat (SR). The objective is to understand and apply the principles of reliable data transmission over an unreliable network.
 
+## Disclaimer
+
+Unfortunately, The project is a part of the CSE4/589 UB organization and is private for academic integrity reasons (so future students of the class can't steal my code), so I was unable to include the commits for the project which displayed the long and extensive development process. For a more in depth and technical view into the functionality of the project, please view the document 'technical_overview.pdf'. For my reports on how I implemented all functionality of project, see the pdf 'pa2-breckenm-pa2.pdf'.
+
 ## Objectives
 
 1. Implement ABT, GBN, and SR protocols in the provided simulator.
