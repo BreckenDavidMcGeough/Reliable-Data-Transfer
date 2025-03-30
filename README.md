@@ -1,4 +1,3 @@
-# CSE4/589: Modern Network Concepts - Programming Assignment 2
 
 ## Overview
 
